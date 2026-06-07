@@ -191,9 +191,6 @@ Customer Retention Actions
 Notification Delivery
 
 ---
-
-
----
 ## Author
 
 Krrish Garg
