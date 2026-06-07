@@ -1,0 +1,101 @@
+user_id,user_name,city,plan_category,cluster,segment,color,icon
+1,Naveen Kumar,Hyderabad,Pro,0,Premium Users,#FFD700,👑
+2,Sneha Iyer,Delhi,Lite,3,Balanced Users,#38F9D7,⚖️
+3,Naveen Kumar,Mumbai,Pro,3,Balanced Users,#38F9D7,⚖️
+4,Anjali Singh,Chennai,Lite,0,Premium Users,#FFD700,👑
+5,Aman Verma,Hyderabad,Budget,4,Data Heavy Users,#6C63FF,📡
+6,Akash Gupta,Delhi,Mini,3,Balanced Users,#38F9D7,⚖️
+7,Rohit Mehta,Delhi,Budget,2,Budget Users,#43E97B,💰
+8,Harsha Vardhan,Mumbai,Premium,1,Call Heavy Users,#FF6584,📞
+9,Tarun Krishna,Chennai,Budget,0,Premium Users,#FFD700,👑
+10,Anjali Singh,Delhi,Budget,3,Balanced Users,#38F9D7,⚖️
+11,Akash Gupta,Hyderabad,Budget,3,Balanced Users,#38F9D7,⚖️
+12,Karthik Raj,Mumbai,Premium,3,Balanced Users,#38F9D7,⚖️
+13,Sneha Iyer,Bangalore,Premium,3,Balanced Users,#38F9D7,⚖️
+14,Deepika Menon,Hyderabad,Standard,2,Budget Users,#43E97B,💰
+15,Bhavana Das,Chennai,Premium,3,Balanced Users,#38F9D7,⚖️
+16,Meera Joshi,Mumbai,Pro,3,Balanced Users,#38F9D7,⚖️
+17,Priya Nair,Delhi,Premium,4,Data Heavy Users,#6C63FF,📡
+18,Rahul Sharma,Bangalore,Mini,1,Call Heavy Users,#FF6584,📞
+19,Bhavana Das,Chennai,Pro,3,Balanced Users,#38F9D7,⚖️
+20,Rahul Sharma,Bangalore,Mini,4,Data Heavy Users,#6C63FF,📡
+21,Sai Teja,Chennai,Lite,0,Premium Users,#FFD700,👑
+22,Priya Nair,Bangalore,Mini,3,Balanced Users,#38F9D7,⚖️
+23,Anjali Singh,Chennai,Mini,4,Data Heavy Users,#6C63FF,📡
+24,Tarun Krishna,Mumbai,Pro,4,Data Heavy Users,#6C63FF,📡
+25,Anjali Singh,Chennai,Budget,1,Call Heavy Users,#FF6584,📞
+26,Vikram Patel,Mumbai,Budget,4,Data Heavy Users,#6C63FF,📡
+27,Harsha Vardhan,Mumbai,Standard,2,Budget Users,#43E97B,💰
+28,Akash Gupta,Bangalore,Mini,4,Data Heavy Users,#6C63FF,📡
+29,Varun Reddy,Mumbai,Premium,2,Budget Users,#43E97B,💰
+30,Tarun Krishna,Chennai,Premium,3,Balanced Users,#38F9D7,⚖️
+31,Varun Reddy,Chennai,Mini,3,Balanced Users,#38F9D7,⚖️
+32,Varun Reddy,Hyderabad,Standard,1,Call Heavy Users,#FF6584,📞
+33,Tarun Krishna,Delhi,Standard,0,Premium Users,#FFD700,👑
+34,Sneha Iyer,Mumbai,Lite,2,Budget Users,#43E97B,💰
+35,Arjun Reddy,Mumbai,Pro,3,Balanced Users,#38F9D7,⚖️
+36,Anjali Singh,Hyderabad,Standard,1,Call Heavy Users,#FF6584,📞
+37,Varun Reddy,Chennai,Budget,1,Call Heavy Users,#FF6584,📞
+38,Anjali Singh,Mumbai,Standard,1,Call Heavy Users,#FF6584,📞
+39,Vikram Patel,Bangalore,Mini,4,Data Heavy Users,#6C63FF,📡
+40,Rohit Mehta,Hyderabad,Lite,2,Budget Users,#43E97B,💰
+41,Rohit Mehta,Hyderabad,Premium,1,Call Heavy Users,#FF6584,📞
+42,Aman Verma,Hyderabad,Standard,2,Budget Users,#43E97B,💰
+43,Sneha Iyer,Chennai,Premium,2,Budget Users,#43E97B,💰
+44,Deepika Menon,Delhi,Standard,3,Balanced Users,#38F9D7,⚖️
+45,Anjali Singh,Chennai,Budget,0,Premium Users,#FFD700,👑
+46,Arjun Reddy,Hyderabad,Standard,4,Data Heavy Users,#6C63FF,📡
+47,Naveen Kumar,Chennai,Lite,0,Premium Users,#FFD700,👑
+48,Arjun Reddy,Bangalore,Mini,1,Call Heavy Users,#FF6584,📞
+49,Kiran Kumar,Delhi,Budget,0,Premium Users,#FFD700,👑
+50,Rohit Mehta,Delhi,Lite,0,Premium Users,#FFD700,👑
+51,Anjali Singh,Mumbai,Budget,1,Call Heavy Users,#FF6584,📞
+52,Harsha Vardhan,Chennai,Standard,3,Balanced Users,#38F9D7,⚖️
+53,Sai Teja,Bangalore,Premium,2,Budget Users,#43E97B,💰
+54,Arjun Reddy,Hyderabad,Standard,2,Budget Users,#43E97B,💰
+55,Anjali Singh,Hyderabad,Premium,3,Balanced Users,#38F9D7,⚖️
+56,Anjali Singh,Chennai,Pro,2,Budget Users,#43E97B,💰
+57,Karthik Raj,Chennai,Premium,1,Call Heavy Users,#FF6584,📞
+58,Rahul Sharma,Delhi,Pro,1,Call Heavy Users,#FF6584,📞
+59,Karthik Raj,Chennai,Mini,3,Balanced Users,#38F9D7,⚖️
+60,Tarun Krishna,Chennai,Budget,3,Balanced Users,#38F9D7,⚖️
+61,Sneha Iyer,Mumbai,Mini,3,Balanced Users,#38F9D7,⚖️
+62,Meera Joshi,Chennai,Standard,4,Data Heavy Users,#6C63FF,📡
+63,Arjun Reddy,Chennai,Budget,2,Budget Users,#43E97B,💰
+64,Aman Verma,Hyderabad,Premium,0,Premium Users,#FFD700,👑
+65,Arjun Reddy,Chennai,Mini,4,Data Heavy Users,#6C63FF,📡
+66,Deepika Menon,Chennai,Pro,1,Call Heavy Users,#FF6584,📞
+67,Bhavana Das,Mumbai,Mini,1,Call Heavy Users,#FF6584,📞
+68,Bhavana Das,Chennai,Pro,1,Call Heavy Users,#FF6584,📞
+69,Rohit Mehta,Mumbai,Premium,1,Call Heavy Users,#FF6584,📞
+70,Vikram Patel,Bangalore,Pro,2,Budget Users,#43E97B,💰
+71,Sai Teja,Chennai,Budget,2,Budget Users,#43E97B,💰
+72,Harsha Vardhan,Delhi,Pro,3,Balanced Users,#38F9D7,⚖️
+73,Vikram Patel,Delhi,Pro,1,Call Heavy Users,#FF6584,📞
+74,Rahul Sharma,Hyderabad,Budget,4,Data Heavy Users,#6C63FF,📡
+75,Sneha Iyer,Mumbai,Budget,2,Budget Users,#43E97B,💰
+76,Karthik Raj,Chennai,Budget,0,Premium Users,#FFD700,👑
+77,Kiran Kumar,Chennai,Mini,2,Budget Users,#43E97B,💰
+78,Sai Teja,Bangalore,Premium,0,Premium Users,#FFD700,👑
+79,Akash Gupta,Chennai,Premium,4,Data Heavy Users,#6C63FF,📡
+80,Varun Reddy,Hyderabad,Standard,2,Budget Users,#43E97B,💰
+81,Vikram Patel,Delhi,Pro,2,Budget Users,#43E97B,💰
+82,Anjali Singh,Mumbai,Standard,3,Balanced Users,#38F9D7,⚖️
+83,Vikram Patel,Hyderabad,Standard,3,Balanced Users,#38F9D7,⚖️
+84,Vikram Patel,Bangalore,Pro,1,Call Heavy Users,#FF6584,📞
+85,Sai Teja,Bangalore,Budget,1,Call Heavy Users,#FF6584,📞
+86,Bhavana Das,Hyderabad,Mini,4,Data Heavy Users,#6C63FF,📡
+87,Sneha Iyer,Hyderabad,Budget,3,Balanced Users,#38F9D7,⚖️
+88,Rahul Sharma,Delhi,Lite,0,Premium Users,#FFD700,👑
+89,Anjali Singh,Delhi,Mini,0,Premium Users,#FFD700,👑
+90,Priya Nair,Chennai,Mini,2,Budget Users,#43E97B,💰
+91,Akash Gupta,Hyderabad,Standard,0,Premium Users,#FFD700,👑
+92,Aman Verma,Delhi,Pro,4,Data Heavy Users,#6C63FF,📡
+93,Arjun Reddy,Chennai,Pro,0,Premium Users,#FFD700,👑
+94,Karthik Raj,Mumbai,Premium,0,Premium Users,#FFD700,👑
+95,Vikram Patel,Delhi,Pro,1,Call Heavy Users,#FF6584,📞
+96,Harsha Vardhan,Bangalore,Standard,0,Premium Users,#FFD700,👑
+97,Tarun Krishna,Bangalore,Pro,1,Call Heavy Users,#FF6584,📞
+98,Kiran Kumar,Delhi,Standard,2,Budget Users,#43E97B,💰
+99,Priya Nair,Delhi,Premium,0,Premium Users,#FFD700,👑
+100,Aman Verma,Hyderabad,Standard,1,Call Heavy Users,#FF6584,📞

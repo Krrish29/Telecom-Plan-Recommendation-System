@@ -1,0 +1,22 @@
+Applied fixes:
+1. Replaced invalid column u.name with u.user_name
+2. Updated queries to match uploaded telecom_db schema
+3. Replaced location -> city
+4. Removed nonexistent columns:
+   - age
+   - gender
+   - tenure_months
+   - confidence_score
+   - monthly_cost
+5. Updated user_usage columns:
+   - call_minutes -> call_minutes_used
+   - sms_sent -> sms_used
+6. Updated churn columns:
+   - risk_level -> churn_risk_label
+   - last_updated -> created_at
+
+Run:
+py -m uvicorn main:app --reload
+
+Dashboard:
+py -m streamlit run dashboard.py

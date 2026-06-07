@@ -1,0 +1,101 @@
+user_id,anomaly_flag,anomaly_score,engagement_score,intelligence_insight,anomaly_label
+1,0,0.2123,29.19,💰 Premium-value customer,Normal
+2,0,0.2809,23.63,💰 Premium-value customer,Normal
+3,0,0.462,30.69,💰 Premium-value customer,Normal
+4,0,0.4253,29.2,💰 Premium-value customer,Normal
+5,0,0.0211,26.94,💰 Premium-value customer,Normal
+6,0,0.5145,29.3,💰 Premium-value customer,Normal
+7,0,0.597,35.18,💰 Premium-value customer,Normal
+8,0,0.3423,20.41,💰 Premium-value customer,Normal
+9,0,0.6382,30.79,💰 Premium-value customer,Normal
+10,0,0.3402,29.14,💰 Premium-value customer,Normal
+11,0,0.5456,30.84,💰 Premium-value customer,Normal
+12,0,0.2337,30.97,💰 Premium-value customer,Normal
+13,0,0.3145,23.73,💰 Premium-value customer,Normal
+14,0,0.3992,19.93,💰 Premium-value customer,Normal
+15,0,0.3534,29.66,💰 Premium-value customer,Normal
+16,0,0.4985,31.65,💰 Premium-value customer,Normal
+17,0,0.2198,22.47,💰 Premium-value customer,Normal
+18,0,0.1227,31.6,💰 Premium-value customer,Normal
+19,0,0.4417,24.73,💰 Premium-value customer,Normal
+20,0,0.3982,24.83,💰 Premium-value customer,Normal
+21,0,0.3292,30.82,💰 Premium-value customer,Normal
+22,0,0.3788,34.16,💰 Premium-value customer,Normal
+23,0,0.2169,27.64,💰 Premium-value customer,Normal
+24,1,0.7879,23.23,⚠️ Anomalous usage pattern detected | 💰 Premium-value customer,Anomaly
+25,0,0.159,27.9,💰 Premium-value customer,Normal
+26,0,0.1836,23.86,💰 Premium-value customer,Normal
+27,0,0.255,27.29,💰 Premium-value customer,Normal
+28,0,0.6632,26.99,💰 Premium-value customer,Normal
+29,0,0.3854,16.99,💰 Premium-value customer,Normal
+30,0,0.4095,22.13,💰 Premium-value customer,Normal
+31,0,0.1982,28.02,💰 Premium-value customer,Normal
+32,0,0.2762,28.98,💰 Premium-value customer,Normal
+33,0,0.3213,23.49,💰 Premium-value customer,Normal
+34,0,0.2391,25.94,💰 Premium-value customer,Normal
+35,0,0.2202,24.35,💰 Premium-value customer,Normal
+36,0,0.2231,21.95,💰 Premium-value customer,Normal
+37,0,0.1266,28.81,💰 Premium-value customer,Normal
+38,0,0.4069,33.82,💰 Premium-value customer,Normal
+39,0,0.2866,34.81,💰 Premium-value customer,Normal
+40,0,0.2009,31.28,💰 Premium-value customer,Normal
+41,0,0.3707,29.97,💰 Premium-value customer,Normal
+42,0,0.3385,24.89,💰 Premium-value customer,Normal
+43,0,0.6133,37.85,💰 Premium-value customer,Normal
+44,0,0.5006,34.58,💰 Premium-value customer,Normal
+45,1,1.0,27.39,⚠️ Anomalous usage pattern detected | 💰 Premium-value customer,Anomaly
+46,0,0.36,32.05,💰 Premium-value customer,Normal
+47,0,0.5108,18.47,💰 Premium-value customer,Normal
+48,0,0.1991,26.82,💰 Premium-value customer,Normal
+49,1,0.7274,32.53,⚠️ Anomalous usage pattern detected | 💰 Premium-value customer,Anomaly
+50,1,0.7815,35.94,⚠️ Anomalous usage pattern detected | 💰 Premium-value customer,Anomaly
+51,0,0.3017,26.79,💰 Premium-value customer,Normal
+52,0,0.4872,30.28,💰 Premium-value customer,Normal
+53,0,0.591,18.58,💰 Premium-value customer,Normal
+54,0,0.2902,23.16,💰 Premium-value customer,Normal
+55,1,0.7323,13.99,⚠️ Anomalous usage pattern detected | 💰 Premium-value customer,Anomaly
+56,1,0.6697,28.52,⚠️ Anomalous usage pattern detected | 💰 Premium-value customer,Anomaly
+57,0,0.0127,29.48,💰 Premium-value customer,Normal
+58,0,0.1518,28.16,💰 Premium-value customer,Normal
+59,0,0.402,18.85,💰 Premium-value customer,Normal
+60,0,0.3705,24.05,💰 Premium-value customer,Normal
+61,0,0.3307,23.35,💰 Premium-value customer,Normal
+62,0,0.1598,29.09,💰 Premium-value customer,Normal
+63,0,0.542,26.2,💰 Premium-value customer,Normal
+64,0,0.6228,33.27,💰 Premium-value customer,Normal
+65,0,0.4277,26.24,💰 Premium-value customer,Normal
+66,1,0.748,27.34,⚠️ Anomalous usage pattern detected | 💰 Premium-value customer,Anomaly
+67,0,0.5252,25.15,💰 Premium-value customer,Normal
+68,0,0.1531,28.51,💰 Premium-value customer,Normal
+69,0,0.4724,17.47,💰 Premium-value customer,Normal
+70,0,0.5139,34.12,💰 Premium-value customer,Normal
+71,0,0.215,27.91,💰 Premium-value customer,Normal
+72,0,0.3875,20.1,💰 Premium-value customer,Normal
+73,0,0.4634,16.6,💰 Premium-value customer,Normal
+74,0,0.3605,25.23,💰 Premium-value customer,Normal
+75,0,0.3523,31.09,💰 Premium-value customer,Normal
+76,0,0.5316,24.45,💰 Premium-value customer,Normal
+77,0,0.403,21.87,💰 Premium-value customer,Normal
+78,0,0.6462,29.38,💰 Premium-value customer,Normal
+79,0,0.2908,23.25,💰 Premium-value customer,Normal
+80,1,0.7472,30.54,⚠️ Anomalous usage pattern detected | 💰 Premium-value customer,Anomaly
+81,0,0.3098,24.36,💰 Premium-value customer,Normal
+82,0,0.5412,29.8,💰 Premium-value customer,Normal
+83,0,0.3861,29.53,💰 Premium-value customer,Normal
+84,0,0.199,22.94,💰 Premium-value customer,Normal
+85,0,0.2385,18.96,💰 Premium-value customer,Normal
+86,0,0.117,30.04,💰 Premium-value customer,Normal
+87,0,0.2156,23.59,💰 Premium-value customer,Normal
+88,0,0.6652,29.72,💰 Premium-value customer,Normal
+89,0,0.5378,27.92,💰 Premium-value customer,Normal
+90,0,0.5895,32.52,💰 Premium-value customer,Normal
+91,0,0.2246,21.39,💰 Premium-value customer,Normal
+92,0,0.4813,32.62,💰 Premium-value customer,Normal
+93,0,0.3056,22.45,💰 Premium-value customer,Normal
+94,0,0.3248,27.63,💰 Premium-value customer,Normal
+95,0,0.4025,35.62,💰 Premium-value customer,Normal
+96,0,0.5588,25.64,💰 Premium-value customer,Normal
+97,0,0.0,24.59,💰 Premium-value customer,Normal
+98,0,0.4674,36.86,💰 Premium-value customer,Normal
+99,0,0.6553,35.67,💰 Premium-value customer,Normal
+100,0,0.1123,20.04,💰 Premium-value customer,Normal
