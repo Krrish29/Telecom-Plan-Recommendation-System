@@ -70,15 +70,20 @@ TelecomAI addresses this challenge by providing intelligent customer insights an
 
 ## System Architecture
 
+```text
 React Frontend
-↓
+       │
+       ▼
 Spring Boot Microservices
-↓
+       │
+       ▼
 MySQL Database
-↓
+       │
+       ▼
 FastAPI AI Services
+```
 
-Microservices:
+### Microservices
 
 * Auth Service
 * User Service
@@ -87,12 +92,36 @@ Microservices:
 * Notification Service
 * Eureka Server
 
-AI Agents:
+### AI Agents
 
 * Churn Prediction Agent
 * Recommendation Agent
 * Behavior Segmentation Agent
 * Intelligence Agent
+
+---
+
+## Project Workflow
+
+```mermaid
+flowchart TD
+    A[Customer Data]
+    B[Customer Analytics]
+    C[Churn Prediction]
+    D[Behavior Segmentation]
+    E[Anomaly Detection]
+    F[Plan Recommendation]
+    G[Customer Retention Actions]
+    H[Notification Delivery]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+```
 
 ---
 
@@ -147,6 +176,7 @@ Analyzes customer usage patterns and generates personalized mobile plan recommen
 * REST APIs
 * Eureka Server
 * JWT Authentication
+* BCrypt Password Encryption
 
 ### AI & Analytics
 
@@ -154,7 +184,7 @@ Analyzes customer usage patterns and generates personalized mobile plan recommen
 * FastAPI
 * Scikit-Learn
 * XGBoost
-* KNN
+* K-Nearest Neighbors (KNN)
 * Isolation Forest
 
 ### Database
@@ -169,29 +199,55 @@ Analyzes customer usage patterns and generates personalized mobile plan recommen
 * IntelliJ IDEA
 * VS Code
 * MySQL Workbench
+* Postman
 
 ---
 
-## Project Workflow
+## Core Modules
 
-Customer Data
-↓
-Customer Analytics
-↓
-Churn Prediction
-↓
-Behavior Segmentation
-↓
-Anomaly Detection
-↓
-Plan Recommendation
-↓
-Customer Retention Actions
-↓
-Notification Delivery
+### Admin Dashboard
+
+* Executive Overview
+* Customer Analytics
+* Retention Analytics
+* Plan Optimization
+* Customer Segments
+* Customer Management
+* Plan Catalog
+
+### User Dashboard
+
+* Current Plan Information
+* Personalized Recommendations
+* Plan Comparison
+* Usage Analytics
+* Notification Center
 
 ---
+
+## Security Features
+
+* JWT Authentication
+* BCrypt Password Hashing
+* Role-Based Access Control
+* Secure REST API Communication
+
+---
+
+## Business Value
+
+TelecomAI enables telecom providers to:
+
+* Improve customer retention through proactive churn prediction
+* Deliver personalized mobile plan recommendations
+* Identify customer behavior patterns and segments
+* Detect unusual customer activity
+* Increase upselling opportunities
+* Improve customer engagement and satisfaction
+
+---
+
 ## Author
 
-Krrish Garg
+**Krrish Garg**
 
